@@ -1,0 +1,10 @@
+/**
+ * Posts Locator search form stylesheet "gray" */
+
+/* Start CSS Header Serach Location */
+.gmw-form-wrapper.locsearch-wrapper .gmw-form-field-wrapper{margin: 0;}
+.gmw-form-wrapper.locsearch-wrapper .gmw-distance-field-wrapper{display: none;}
+.gmw-form-wrapper.locsearch-wrapper .gmw-submit,
+.gmw-form-wrapper.locsearch-wrapper .input[type=submit]{margin: 0;}
+
+/* End CSS Header Serach Location */

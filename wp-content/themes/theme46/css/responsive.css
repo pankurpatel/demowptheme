@@ -1,0 +1,1113 @@
+@media only screen and (min-width: 1921px) {
+}
+
+@media only screen and (max-width: 1679.98px) {
+    /* Start: Common Css */
+    .maintitle h1, .maintitle h2 {font-size: 42px;}
+    .inner-title h1, .inner-title h2 {font-size: 42px;}
+    .owl-carousel .owl-nav .owl-prev {left: -38px;}
+    .owl-carousel .owl-nav .owl-next {right: -38px;}
+    .slick-slider .slick-prev {left: -38px;}
+    .slick-slider .slick-next {right: -38px;}
+    .multilocation.home #container {padding-top: 74px;}
+    /* End: Common Css */
+    /* Start: Header */
+    .findloc-text {font-size: 22px;}
+    .findlocsearch-bar input {height: 54px;}
+    .findlocsearch-bar i {font-size: 20px;}
+    .findlocsearch-box .border-btn {height: 54px;line-height: 54px;padding: 0 40px;}
+    /* End: Header */
+    /* Start: Home Banner Section */
+    .hmbanner-text h2 {font-size: 42px;margin-bottom: 20px;}
+    .hmbanner-text h2 span {font-size: 86px;}
+    /* End: Home Banner Section */
+    /* Start: Home Form Section */
+    .hmformsection {padding: 80px 0;}
+    /* End: Home Form Section */
+    /* Start: Home About Us Section */
+    .hmaboutsection{padding: 80px 0;}
+    /* End: Home About Us Section */
+    /* Start: Home Advantage Section */
+    .hmadvantage-section {padding: 80px 0;}
+    .row.hmadvantage-list {margin-top: 80px;}
+    .row.hmadvantage-list .item:nth-child(odd) {margin-top: -80px}
+    /* End Home Advantage Section */
+    /* Start: Home Service Stripe Section */
+    .hmservicestripe-section {padding: 80px 0;}
+    /* End: Home Service Stripe Section */
+    /* Start: Home Service Section */
+    .hmservice-section {padding: 80px 0;}
+    /* End: Home Service Section */
+    /* Start: Home Certificates Section */
+    .hmcertificate-section {padding: 80px 0;}
+    /* End: Home Certificates Section */
+    /* Start: Home Doctors Section */
+    .hmdoctor-section {padding: 80px 0;}
+    /* End: Home Doctors Section */
+    /* Start: Home Discount Plan Section */
+    .hmdiscplan-section {padding: 80px 0;}
+    .discplan-info ul li {margin-top: 30px;padding-left: 30px;}
+    .discplan-btn {margin-top: 30px;}
+    /* End: Home Discount Plan Section */
+    /* Start: Home Promotion Plan Section */
+    .hmpromoplan-section {padding: 80px 0;}
+    /* End: Home Promotion Plan Section */
+    /* Start: Home Call Us Section */
+    .hmcallus-section {padding: 80px 0;}
+    .row.hmcallusbox-list {margin-top: 80px;}
+    .row.hmcallusbox-list .item:nth-child(odd) {margin-top: -80px;}
+    /* End: Home Call Us Section */
+    /* Start: Home Blog Section */
+    .hmblog-section {padding: 80px 0;}
+    /* End: Home Blog Section */
+    /* Start: Home Review Section */
+    .hmreview-leftcol {padding-top: 80px;padding-bottom: 80px;}
+    /* End: Home Review Section */
+    /* Start: Home Gallery Section */
+    .hmgallery-section {padding: 80px 0;}
+    /* End: Home Gallery Section */
+    /* Start: About Us Page */
+    .aboutmain-content {padding: 80px 0;}
+    /* End: About Us Page */
+    /* Start: Doctor Listing Page */
+    .doctorlist-section {padding: 80px 0;}
+    /* End: Doctor Listing Page */
+    /* Start: Doctor Detail Page */
+    .doctordetail-main {padding: 80px 0;}
+    .otherdoctor-section {padding: 80px 0;}
+    /* End: Doctor Detail Page */
+    /* Start: Service Detail Page */
+    .servicemain-content {padding: 80px 0;}
+    .othrservice-section {padding: 80px 0;}
+    /* End: Service Detail Page */
+    /* Start: Book Appointment Page */
+    .bookappform-section {padding: 80px 0;}
+    /* End: Book Appointment Page */
+    /* Start: Blog Listing Page */
+    .bloglist-section {padding: 80px 0;}
+    /* End: Blog Listing Page */
+    /* Start: Blog Detail Page */
+    .blogmain-content {padding: 80px 0;}
+    /* End: Blog Detail Page */
+    /* Start: Gallery Page */
+    .gallerylist-section {padding: 80px 0;}
+    /* End: Gallery Page */
+    /* Start: Before and After Page */
+    .bfraftrmain-section {padding: 80px 0;}
+    /* End: Before and After Page */
+    /* Start: Testimonials Page */
+    .reviewmain-section {padding: 80px 0;}
+    /* End: Testimonials Page */
+    /* Start: Discount Plan Page */
+    .discplanlist-section {padding: 80px 0;}
+    /* End: Discount Plan Page */
+    /* Start: Promotion Plan Page */
+    .promoplanlist-section {padding: 80px 0;}
+    /* End: Promotion Plan Page */
+    /* Start: Finance Insurance Page */
+    .financemain-section, .finance-btmcontent {padding: 80px 0;}
+    /* End: Finance Insurance Page */
+    /* Start: First Visit Page */
+    .firstvisit-section {padding: 80px 0;}
+    /* End: First Visit Page */
+    /* Start: FAQ's Page */
+    .faqs-section {padding: 80px 0;}
+    .accord-detail{padding:40px 0 10px 0;}
+    /* End: FAQ's Page */
+    /* Start: Advanced Technology Page */
+    .advtechnology-section {padding: 80px 0;}
+    /* End: Advanced Technology Page */
+    /* Start: How It Works Page */
+    .howitwork-section {padding: 80px 0;}
+    /* End: How It Works Page */
+    /* Start: Location Listing Page */
+    .findloclist-section {padding: 80px 0;}
+    /* End: Location Listing Page */
+    /* Start: Location Detail Page */
+    .locdetailinfo-section {padding: 80px 0;}
+    /* End: Location Detail Page */
+    /* Start: Footer */
+    .footform-section {padding: 80px 0;}
+    .footmap-block iframe {height: 500px;}
+    .footer-inner {padding: 80px 0;}
+    /* Start: Multi Locations */
+    .footmultiloc-section {padding: 80px 0;}
+    .footmultiloc-search .button {height: 54px;line-height: 54px;}
+    .footfind-locbar {margin-bottom: 80px;}
+    /* End: Multi Locations */
+    /* End: Footer */
+}
+
+@media only screen and (max-width: 1399.98px) {
+    /* Start: Common Css */
+    .maintitle h1, .maintitle h2 {font-size: 36px;}
+    .maintitle h1 + p, .maintitle h2 + p {padding-top: 20px;}
+    .inner-title h1, .inner-title h2 {font-size: 36px;}
+    .inner-title h1 + p, .inner-title h2 + p {padding-top: 15px;}
+    .innertop-desc {margin-bottom: 40px;}
+    .innertop-desc h2 {font-size: 28px;letter-spacing: inherit;}
+    .innertop-desc h3 {font-size: 24px;letter-spacing: inherit;}
+    #container {padding-top: 137px;}
+    /* End: Common Css */
+    /* Start: Header */
+    .header-inner {padding: 15px 0;}
+    #nav ul {top:51px;}
+    #nav>li>a {padding: 20px 0;}
+    #nav>li>a:before {top: 10px;}
+    #nav>li:hover>a:after, #nav > li.current-menu-item > a:after, #nav > li.current-menu-ancestor > a:after {height: 12px;}
+    .headbook-btn .border-btn {padding: 12px 12px;}
+    /* Start: Multi Location */
+    .findlocsearch-bar input {font-size: 16px;width: 600px;}
+    .headfindloc .button {padding-left: 35px;padding-right: 35px;}
+    /* End: Multi Location */
+    /* End: Header */
+    /* Start: Home Banner Section */
+    .hmbanner-text h2 {font-size: 36px;}
+    .hmbanner-text h2 span {font-size: 70px;}
+    .hmbanner-text .border-btn {margin-top: 25px;}
+    /* End: Home Banner Section */
+    /* Start: Home Form Section */
+    .hmformsection {padding: 60px 0;}
+    /* End: Home Form Section */
+    /* Start: Home About Us Section */
+    .hmaboutsection{padding: 60px 0;}
+    /* End: Home About Us Section */
+    /* Start: Home Advantage Section */
+    .hmadvantage-section {padding: 60px 0;}
+    .row.hmadvantage-list {margin-top: 60px;}
+    .row.hmadvantage-list .item:nth-child(odd) {margin-top: -60px}
+    /* End: Home Advantage Section */
+    /* Start: Home Service Stripe Section */
+    .hmservicestripe-section {padding: 60px 0;}
+    /* End: Home Service Stripe Section */
+    /* Start: Home Service Section */
+    .hmservice-section {padding: 60px 0;}
+    .hmservicebox {padding: 30px;}
+    .hmservicebox-desc {margin-top: 30px;}
+    .hmservicebox-desc h3 {font-size: 22px;margin-bottom: 20px;}
+    .hmservicebox-btn {margin-top: 20px;}
+    /* End: Home Service Section */
+    /* Start: Home Certificates Section */
+    .hmcertificate-section {padding: 60px 0;}
+    /* End: Home Certificates Section */
+    /* Start: Home Doctors Section */
+    .hmdoctor-section {padding: 60px 0;}
+    .hmdoctor-textcol {padding-top: 110px;}
+    .hmdoctor-desc h3 {font-size: 24px;margin-bottom: 12px;}
+    .hmdoctor-desc p {margin-bottom: 20px;}
+    .hmdoctor-btn {margin-top: 20px;}
+    /* End: Home Doctors Section */
+    /* Start: Home Discount Plan Section */
+    .hmdiscplan-section {padding: 60px 0;}
+    /* End: Home Discount Plan Section */
+    /* Start: Home Promotion Plan Section */
+    .hmpromoplan-section {padding: 60px 0;}
+    /* End: Home Promotion Plan Section */
+    /* Start: Home Call Us Section */
+    .hmcallus-section {padding: 60px 0;}
+    .row.hmcallusbox-list {margin-top: 60px;}
+    .row.hmcallusbox-list .item:nth-child(odd) {margin-top: -60px;}
+    .hmcallusbox h3 {font-size: 40px;}
+    .hmcallusbox p {font-size: 16px;}
+    .hmcallus-desc {padding-left: 0;}
+    /* End: Home Call Us Section */
+    /* Start: Home Blog Section */
+    .hmblog-section {padding: 60px 0;}
+    .hmblogbox {padding: 30px;}
+    .hmblogbox-desc {margin-top: 30px;}
+    .hmblogbox-desc h3 {font-size: 22px;}
+    .hmblogbox-btn {margin-top: 24px;}
+    /* End: Home Blog Section */
+    /* Start: Home Review Section */
+    .hmreview-leftcol {padding-top: 60px;padding-bottom: 60px;}
+    /* End: Home Review Section */
+    /* Start: Home Gallery Section */
+    .hmgallery-section {padding: 60px 0;}
+    /* End: Home Gallery Section */
+    /* Start: About Us Page */
+    .aboutmain-content {padding: 60px 0;}
+    .aboutmain-desc h2 {font-size: 28px;letter-spacing: inherit;}
+    .aboutmain-desc h3 {font-size: 24px;letter-spacing: inherit;}
+    /* End: About Us Page */
+    /* Start: Doctor Listing Page */
+    .doctorlist-section {padding: 60px 0;}
+    .drlist-box {padding: 20px 15px;}
+    .drlistbox-desc {margin-top: 20px;}
+    .drlistbox-desc h3 {font-size: 24px;}
+    .drlistbox-desc p {margin-top: 20px;}
+    .drlistbox-btn {margin-top: 20px;}
+    /* End: Doctor Listing Page */
+    /* Start: Doctor Detail Page */
+    .doctordetail-main {padding: 60px 0;}
+    .doctordetail-info h3 {font-size: 24px;}
+    .doctordetail-fulldesc h2 {font-size: 28px;letter-spacing: inherit;}
+    .doctordetail-fulldesc h3 {font-size: 24px;letter-spacing: inherit;}
+    .otherdoctor-section {padding: 60px 0;}
+    /* End: Doctor Detail Page */
+    /* Start: Service Detail Page */
+    .servicemain-content {padding: 60px 0;}
+    .servicemain-desc h2 {font-size: 28px;letter-spacing: inherit;}
+    .servicemain-desc h3 {font-size: 24px;letter-spacing: inherit;}
+    .othrservice-section {padding: 60px 0;}
+    /* End: Service Detail Page */
+    /* Start: Book Appointment Page */
+    .bookappform-section {padding: 60px 0;}
+    /* End: Book Appointment Page */
+    /* Start: Blog Listing Page */
+    .bloglist-section {padding: 60px 0;}
+    /* End: Blog Listing Page */
+    /* Start: Blog Detail Page */
+    .blogmain-content {padding: 60px 0;}
+    .blogmain-desc h2 {font-size: 28px;letter-spacing: inherit;}
+    .blogmain-desc h3 {font-size: 24px;letter-spacing: inherit;}
+    /* End: Blog Detail Page */
+    /* Start: Gallery Page */
+    .gallerylist-section {padding: 60px 0;}
+    /* End: Gallery Page */
+    /* Start: Before and After Page */
+    .bfraftrmain-section {padding: 60px 0;}
+    /* End: Before and After Page */
+    /* Start: Testimonials Page */
+    .reviewmain-section {padding: 60px 0;}
+    .reviewbox-desc h3 {font-size: 24px;}
+    /* End: Testimonials Page */
+    /* Start: Discount Plan Page */
+    .discplanlist-section {padding: 60px 0;}
+    /* End: Discount Plan Page */
+    /* Start: Promotion Plan Page */
+    .promoplanlist-section {padding: 60px 0;}
+    /* End: Promotion Plan Page */
+    /* Start: Finance Insurance Page */
+    .financemain-section, .finance-btmcontent {padding: 60px 0;}
+    .finance-desc h2 {font-size: 28px;letter-spacing: inherit;}
+    .finance-desc h3 {font-size: 24px;letter-spacing: inherit;}
+    .financeplanlist-section h3 {font-size: 28px;letter-spacing: inherit;}
+    /* End: Finance Insurance Page */
+    /* Start: First Visit Page */
+    .firstvisit-section {padding: 60px 0;}
+    .firstvisit-section h2 {font-size: 28px;letter-spacing: inherit;}
+    .firstvisit-section h3 {font-size: 24px;letter-spacing: inherit;}
+    /* End: First Visit Page */
+    /* Start: FAQ's Page */
+    .faqs-section {padding: 60px 0;}
+    .accordionrow + .accordionrow {margin-top: 20px;}
+    .accord-detail{padding:30px 0 10px 0;}
+    .accordion .acclink {font-size: 22px;}
+    /* End: FAQ's Page */
+    /* Start: Advanced Technology Page */
+    .advtechnology-section {padding: 60px 0;}
+    /* End: Advanced Technology Page */
+    /* Start: How It Works Page */
+    .howitwork-section {padding: 60px 0;}
+    .howitwork-text h3 {font-size: 28px;letter-spacing: inherit;}
+    /* End: How It Works Page */
+    /* Start: Location Listing Page */
+    .page-template-template-find-locations #container, .single-location #container {padding-top: 142px;}
+    .findloclist-section {padding: 60px 0;}
+    .findlocbox-info h3 {font-size: 24px;letter-spacing: inherit;}
+    /* End: Location Listing Page */
+    /* Start: Location Detail Page */
+    .locdetailinfo-section {padding: 60px 0;}
+    /* End: Location Detail Page */
+    /* Start: Footer */
+    .footform-section {padding: 60px 0;}
+    .footer-inner {padding: 60px 0;}
+    /* Start: Multi Location */
+    .footmultiloc-section {padding: 60px 0;}
+    .footfind-locbar {margin-bottom: 60px;}
+    /* End: Multi Location */
+    /* End: Footer */
+}
+
+
+@media only screen and (max-width: 1199.98px) {
+    /* Start: Common Css */
+    .maintitle {margin-bottom: 30px;}
+    .maintitle h1, .maintitle h2 {font-size: 32px;}
+    .maintitle h1 + p, .maintitle h2 + p {padding-top: 12px;}
+    .inner-title {margin-bottom: 30px;}
+    .inner-title h1, .inner-title h2 {font-size: 32px;}
+    .innertop-desc {margin-bottom: 30px;}
+    .innertop-desc h2 {font-size: 25px;}
+    .innertop-desc h3 {font-size: 22px;}
+    .aawform-group.aawform-btn .button {padding: 15px 50px;}
+    .owl-carousel .owl-nav {margin-top: 20px;text-align: center;width: auto;}
+    .owl-carousel .owl-nav button {position: relative;top: auto;left: auto;right: auto;-webkit-transform: none;-ms-transform: none;transform: none;width: 24px;height: 30px;line-height: 30px;}
+    .owl-carousel .owl-nav .owl-prev {left: auto;margin-right: 5px;}
+    .owl-carousel .owl-nav .owl-next {right: auto;margin-left: 5px;}
+    .owl-carousel .owl-nav button:after {width: 18px;height: 30px;top: 0;}
+    .owl-carousel .owl-nav button i {font-size: 17px;}
+    .slick-slider .slick-arrow {top: auto;-webkit-transform: none;-ms-transform: none;transform: none;width: 24px;height: 30px;line-height: 30px;}
+    .slick-slider .slick-prev {left: 50%;-webkit-transform: translateX(-28px);-ms-transform: translateX(-28px);transform: translateX(-28px);}
+    .slick-slider .slick-next {right: 50%;-webkit-transform: translateX(28px);-ms-transform: translateX(28px);transform: translateX(28px);}
+    .slick-slider .slick-arrow:before {font-size: 17px;}
+    .slick-slider .slick-arrow:after {width: 18px;height: 30px;}
+    /* End: Common Css */
+    /* Start: Header */
+    .head-location a{padding-left: 26px;}
+    .head-location a:after{font-size: 24px;}
+    .head-phone {padding-left: 30px;}
+    .head-phone a{padding-left: 30px;}
+    .head-phone a:after{font-size: 24px;}
+    .headsocial {padding-left: 30px;}
+    .socialmedia li a {font-size: 16px;line-height: 32px;height: 34px;width: 34px;}
+    #nav>li {margin-left: 20px;}  
+    #nav li.full-megamenu:hover > ul {width: 650px;}
+    /* Start: Multi Location */
+    .findloc-text {font-size: 20px;}
+    .findlocsearch-bar input {width: 420px;}
+    .findlocsearch-box .border-btn {padding: 0 25px;}
+    /* End: Multi Location */
+    /* End: Header */
+    /* Start: Home Banner Section */
+    .hmbanner-text h2 {font-size: 32px;}
+    .hmbanner-text h2 span {font-size: 58px;}
+    .hmbanner-slider.owl-carousel .owl-nav button.owl-prev {margin-right: 5px;}
+    .hmbanner-slider.owl-carousel .owl-nav button.owl-next {margin-left: 5px;}
+    /* End: Home Banner Section */
+    /* Start: Home Form Section */
+    .hmformsection {padding: 40px 0;}
+    /* End: Home Form Section */
+    /* Start: Home About Us Section */
+    .hmaboutsection{padding: 40px 0;}
+    .hmabout-btn .border-btn {max-width: 180px;}
+    /* End: Home About Us Section */
+    /* Start: Home Advantage Section */
+    .hmadvantage-section {padding: 40px 0;}
+    .row.hmadvantage-list {margin-top: 40px;}
+    .row.hmadvantage-list .item:nth-child(odd) {margin-top: -40px}
+    .hmadvantagebox h3 {font-size: 20px;}
+    .hmadvantagebox p {font-size: 16px;line-height: 20px;}
+    /* End: Home Advantage Section */
+    /* Start: Home Service Stripe Section */
+    .hmservicestripe-section {padding: 40px 0;}
+    .hmservicestripe-btn .border-btn {max-width: 180px;}
+    /* End: Home Service Stripe Section */
+    /* Start: Home Service Section */
+    .hmservice-section {padding: 40px 0;}
+    /* End: Home Service Section */
+    /* Start: Home Certificates Section */
+    .hmcertificate-section {padding: 40px 0;}
+    /* End: Home Certificates Section */
+    /* Start: Home Ambulance Stripe Section */
+    .hmfindambulance-section {padding: 60px 0;}
+    .hmfindambulance-img {padding-left: 70px;}
+    .hmfindambulance-img:before, .hmfindambulance-img:after {top: -17%;width: 280px;height: 280px;background-size: 100%;}
+    .hmfindambulance-text .maintitle {margin-bottom: 20px;}
+    .hmfindambulance-call a {font-size: 23px;}
+    .hmfindambulance-btn {margin-top: 25px;}
+    /* End: Home Ambulance Stripe Section */
+    /* Start: Home Doctors Section */
+    .hmdoctor-section {padding: 40px 0;}
+    .hmdoctor-thumbcol {margin-bottom: 40px;}
+    .hmdoctorlist.owl-carousel .owl-nav button.owl-prev {margin-right: 5px;}
+    .hmdoctorlist.owl-carousel .owl-nav button.owl-next {margin-left: 5px;}
+    /* End: Home Doctors Section */
+   /* Start: Home Discount Plan Section */
+    .hmdiscplan-section {padding: 40px 0;}
+    .discplan-box {padding: 30px 20px;}
+    .discplan-head h3 {font-size: 20px;}
+    .discplan-price span {font-size: 42px;}
+    .discplan-price small {font-size: 14px;}
+    .discplan-info ul li {font-size: 16px;margin-top: 16px;padding-left: 24px;}
+    .discplan-btn {margin-top: 20px;}
+    .discplan-btn .button {max-width: 160px;padding: 14px 16px;}
+    .discplan-btn .button:after {right: 16px;}
+    /* End: Home Discount Plan Section */
+    /* Start: Home Promotion Plan Section */
+    .hmpromoplan-section {padding: 40px 0;}
+    .hmpromosbox {max-width: 260px;}
+    .hmpromosbox h3 {font-size: 20px;}
+    .promoprice {font-size: 42px;}
+    .hmpromo-info p {font-size: 16px;}
+    /* End: Home Promotion Plan Section */
+    /* Start: Home Call Us Section */
+    .hmcallus-section {padding: 40px 0;}
+    .row.hmcallusbox-list {margin-top: 40px;}
+    .row.hmcallusbox-list .item:nth-child(odd) {margin-top: -40px;}
+    .hmcallusbox h3 {font-size: 34px;letter-spacing: inherit;margin-bottom: 10px;}
+    /* End: Home Call Us Section */
+    /* Start: Home Blog Section */
+    .hmblog-section {padding: 40px 0;}
+    .hmblogbox-desc h3 {font-size: 20px;}
+    .blogdate {font-size: 16px;}
+    /* End: Home Blog Section */
+    /* Start: Home Review Section */
+    .hmreview-leftcol {padding-top: 40px;padding-bottom: 40px;}
+    /* End: Home Review Section */
+    /* Start: Home Gallery Section */
+    .hmgallery-section {padding: 40px 0;}
+    .hmgalleryslider-nav .slick-arrow {bottom: -50px;}
+    .hmgalleryslider-nav {margin-bottom: 50px;}
+    /* End: Home Gallery Section */
+    /* Start: About Us Page */
+    .aboutmain-content {padding: 40px 0;}
+    .aboutmain-desc h2 {font-size: 25px;}
+    .aboutmain-desc h3 {font-size: 22px;}
+    /* End: About Us Page */
+    /* Start: Doctor Listing Page */
+    .doctorlist-section {padding: 40px 0;}
+    .drlistbox-desc h3 {font-size: 22px;letter-spacing: inherit;}
+    /* End: Doctor Listing Page */
+    /* Start: Doctor Detail Page */
+    .doctordetail-main {padding: 40px 0;}
+    .doctordetail-info h3 {font-size: 22px;letter-spacing: inherit;}
+    .doctordetail-fulldesc h2 {font-size: 25px;}
+    .doctordetail-fulldesc h3 {font-size: 22px;}
+    .otherdoctor-section {padding: 40px 0;}
+    /* End: Doctor Detail Page */
+    /* Start: Service Detail Page */
+    .servicemain-content {padding: 40px 0;}
+    .servicemain-desc h2 {font-size: 25px;}
+    .servicemain-desc h3 {font-size: 22px;}
+    .othrservice-section {padding: 40px 0;}
+    /* End: Service Detail Page */
+    /* Start: Book Appointment Page */
+    .bookappform-section {padding: 40px 0;}
+    /* End: Book Appointment Page */
+    /* Start: Blog Listing Page */
+    .bloglist-section {padding: 40px 0;}
+    .bloglist-pagination {padding-top: 30px;margin-top: 30px;}
+    .blog-pagination .page-numbers.prev, .blog-pagination .page-numbers.next {max-width: 120px;padding: 12px 8px;}
+    .blog-pagination .page-numbers {margin-top: 4px;}
+    /* End: Blog Listing Page */
+    /* Start: Blog Detail Page */
+    .blogmain-content {padding: 40px 0;}
+    .blogmain-desc h2 {font-size: 25px;}
+    .blogmain-desc h3 {font-size: 22px;}
+    .blogdtl-pagination {padding-top: 30px;margin-top: 30px;}
+    .blogdtl-pagnav a {max-width: 120px;}
+    /* End: Blog Detail Page */
+    /* Start: Gallery Page */
+    .gallerylist-section {padding: 40px 0;}
+    .gallryplay-btn {width: 76px;height: 76px;}
+    .gallryplay-btn i {font-size: 28px;width: 64px;height: 64px;line-height: 64px;margin-top: 6px;}
+    /* End: Gallery Page */
+    /* Start: Before and After Page */
+    .bfraftrmain-section {padding: 40px 0;}
+    .bfraftr-caption span {font-size: 22px;padding: 10px;}
+    /* End: Before and After Page */
+    /* Start: Testimonials Page */
+    .reviewmain-section {padding: 40px 0;}
+    .reviewbox {padding: 20px 15px;}
+    .reviewbox-desc h3 {font-size: 22px;letter-spacing: inherit;margin-bottom: 20px;}
+    .review-rating i {font-size: 20px;}
+    /* End: Testimonials Page */
+    /* Start: Discount Plan Page */
+    .discplanlist-section {padding: 40px 0;}
+    /* End: Discount Plan Page */
+    /* Start: Promotion Plan Page */
+    .promoplanlist-section {padding: 40px 0;}
+    /* End: Promotion Plan Page */
+    /* Start: Finance Insurance Page */
+    .financemain-section, .finance-btmcontent {padding: 40px 0;}
+    .finance-desc h2 {font-size: 25px;}
+    .finance-desc h3 {font-size: 22px;}
+    .financeplanlist-section h3 {font-size: 25px;}
+    .financeplanlist {-webkit-column-count: 3;-moz-column-count: 3;column-count: 3;}
+    /* End: Finance Insurance Page */
+    /* Start: First Visit Page */
+    .firstvisit-section {padding: 40px 0;}
+    .firstvisit-section h2 {font-size: 25px;}
+    .firstvisit-section h3 {font-size: 22px;}
+    /* End: First Visit Page */
+    /* Start: FAQ's Page */
+    .faqs-section {padding: 40px 0;}
+    .accordion .acclink {font-size: 20px;}
+    /* End: FAQ's Page */
+    /* Start: Advanced Technology Page */
+    .advtechnology-section {padding: 40px 0;}
+    /* End: Advanced Technology Page */
+    /* Start: How It Works Page */
+    .howitwork-section {padding: 40px 0;}
+    .howitwork-text h3 {font-size: 25px;}
+    /* End: How It Works Page */
+    /* Start: Location Listing Page */
+    .findloclist-section {padding: 40px 0;}
+    .findlocation-map iframe {height: 400px;}
+    .findlocationbox {padding: 20px 15px;}
+    .findlocbox-info h3 {font-size: 22px;}
+    /* End: Location Listing Page */
+    /* Start: Location Detail Page */
+    .locdetailinfo-section {padding: 40px 0;}
+    .locationbnnr-map iframe {height: 400px;}
+    /* End: Location Detail Page */
+    /* Start: Footer */
+    .footform-section {padding: 40px 0;}
+    .footmap-block iframe {height: 400px;}
+    .footer-inner {padding: 40px 0;}
+    .footcol-title {font-size: 24px;margin-bottom: 20px;}
+    .footmenu ul {margin-top: -10px;}
+    .footmenu li {margin-top: 10px;}
+    .footservice.footmenu li {width: 50%;}
+    /* Start: Multi Location */
+    .footmultiloc-section {padding: 40px 0;}
+    .footfind-locbar {margin-bottom: 40px;}
+    .footmultiloc-box h3 {font-size: 24px;letter-spacing: inherit;margin-bottom: 16px;}
+    .footmultiloc-phone {margin-top: 16px;}
+    .foothours.footmultiloc-hours {margin-top: 20px;}
+    /* End: Multi Location */
+    /* End: Footer */
+}
+
+@media only screen and (min-width: 992px) {
+    /* Start: Header */
+    #nav>li>a:before{content:'';position:absolute;left:50%;-webkit-transform: translateX(-50%);-ms-transform: translateX(-50%);transform: translateX(-50%);background-color:#ffffff;width:7px;height:7px;border-radius: 16px;opacity: 0;-webkit-transition:all 1.5s ease;-o-transition:all 1.5s ease;transition:all 1.5s ease;}
+    #nav>li>a:after {content:'';position:absolute;top: 0;left:50%;-webkit-transform: translateX(-50%);-ms-transform: translateX(-50%);transform: translateX(-50%);background-color:#ffffff;width:1px;opacity: 0;-webkit-transition:all 0.5s ease;-o-transition:all 0.5s ease;transition:all 0.5s ease;}
+    #nav>li:hover>a:before, #nav>li:hover>a:after {opacity: 1;}
+    #nav > li.current-menu-item > a:before, #nav > li.current-menu-parent > a:before, #nav > li.current-menu-ancestor > a:before, .single-post #nav > li.blogmenu-item > a:before,
+    #nav > li.current-menu-item > a:after, #nav > li.current-menu-parent > a:after, #nav > li.current-menu-ancestor > a:after, .single-post #nav > li.blogmenu-item > a:after {opacity: 1;}
+    #mainNav #nav > li.current-menu-item > a {background-color: inherit;}
+    #nav .menu-item-has-children li.current-menu-item > a {padding-left: 28px;}
+    #nav li.current-menu-item > a:after {opacity: 1;}
+    #nav li:hover > ul {width: 260px;display:block;}
+    #nav ul {opacity: 0;z-index: -1;overflow: hidden;width: 0;-webkit-transform: translateY(30px);-ms-transform: translateY(30px);transform: translateY(30px);-webkit-transition: opacity .5s, transform 0.5s ease-in-out;-webkit-transition: opacity .5s, -webkit-transform 0.5s ease-in-out;transition: opacity .5s, -webkit-transform 0.5s ease-in-out;-o-transition: opacity .5s, transform 0.5s ease-in-out;transition: opacity .5s, transform 0.5s ease-in-out;transition: opacity .5s, transform 0.5s ease-in-out, -webkit-transform 0.5s ease-in-out;}
+    #nav li:hover > ul {-webkit-transform: translateY(0);-ms-transform: translateY(0);transform: translateY(0);opacity: 1;z-index: 12;overflow: inherit;}
+    #nav ul li ul {display: none;}
+    #nav ul li:hover ul {display: block;}
+    #nav li.full-megamenu > .sub-menu > li {width: 33.33%;padding: 0 5px;}
+    #nav li.full-megamenu .sub-menu .sub-menu {-webkit-transform: translateY(0);-ms-transform: translateY(0);transform: translateY(0);opacity: 1;z-index: 12;overflow: inherit;position: relative;top: auto;left: auto;display: block;width: 100%;}
+    #nav li.full-megamenu:hover > ul {padding: 15px 10px;}
+    #nav li.full-megamenu ul li a {padding-left: 13px;padding-right: 0;}
+    #nav li.full-megamenu ul li a:after {left: 0;}
+    #nav li.full-megamenu ul li:hover>a {background-color: inherit;}
+    #nav li.full-megamenu ul li:hover>a {color: #f77e79;}
+    #nav li.full-megamenu ul li.megamenu-title>a, #nav li.full-megamenu ul li.megamenu-title:hover>a {padding-left: 0;color: #f77e79;}
+    #nav li.full-megamenu ul li.megamenu-title>a:after {display: none;}
+    #nav li.full-megamenu .current-menu-item > a {color: #ffffff;background-color: inherit;padding-left: 13px;}
+    #nav li.full-megamenu ul li a:before {opacity: 0;}
+    .menu-icon, .menuclose-icon {display: none;}
+    /* Start: Multi Location */
+		.fixed .headfindloc-bar {display: none;}
+		.headfindloc .location_list {opacity: 0;z-index: -1;overflow: hidden;width: 0;-webkit-transform: translateY(30px);-moz-transform: translateY(30px);transform: translateY(30px);-webkit-transition: opacity .5s, transform 0.5s ease-in-out;-moz-transition: opacity .5s, transform 0.5s ease-in-out;transition: opacity .5s, transform 0.5s ease-in-out;}
+		.headfindloc:hover .location_list {-webkit-transform: translateY(0);-moz-transform: translateY(0);transform: translateY(0);opacity: 1;z-index: 12;overflow: inherit;width: 310px;}
+		.headfindloc:hover .button {color: #ffffff;}
+		.headfindloc:hover .button:before {height: 100%;}
+		/* End: Multi Location */
+	  /* End: Header */
+		/* Start: Homepage */
+		.home #header {background: inherit;}
+		.home.fixed #header {background: #d2536a;background: -moz-linear-gradient(0deg, #d2536a 0%, #f77e79 100%);background: -webkit-linear-gradient(0deg, #d2536a 0%, #f77e79 100%);background: linear-gradient(0deg, #d2536a 0%, #f77e79 100%);}
+		/* End: Homepage */
+}
+
+@media only screen and (max-width: 991.98px) {
+    /* Start: Common Css */
+    .maintitle {text-align: center;}
+    .innerbanner-img {height: 320px;}
+    .aawfieldgroup .aawfieldcol33 {width: 50%;}
+    p {margin-bottom: 16px;}
+    #container, .multilocation #container, .page-template-template-find-locations #container, .single-location #container {padding-top: 0;}
+    /* End: Common Css */
+    /* Start: Header */
+    #header {position: relative;}
+    .header-menubar {padding: 10px 0;}
+    .header-menu {-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;position: relative;}
+    #nav-icon {display: block;-webkit-box-ordinal-group: 3;-ms-flex-order: 2;order: 2;}
+    #nav {display: none;position: absolute;top: 48px;left: 50%;-webkit-transform: translateX(-50%);-moz-transform: translateX(-50%);transform: translateX(-50%);background-color: #212d31;width: 290px;}
+    #nav ul {position: relative;top: auto;left: auto;display: none;}
+    #nav ul ul {top: auto;left: auto;}
+    #nav>li {float: none; display: block;margin-left: 0;}
+    #nav>li>a{padding: 10px 10px; color: #ffffff; display: block; text-align: left;}
+    #nav > li.menu-item-has-children>a {padding-right: 30px;}
+    #nav>li:hover>a{color: #ffffff;}
+    #nav>li>a:before {content: "";background-color: #f77e79;position: absolute;top: auto;bottom: 0;left: 0;width: 100%;height: 1px;-webkit-transition: 0.8s all ease;-o-transition: 0.8s all ease;transition: 0.8s all ease;z-index: -1;}
+    #nav>li:hover>a:before {height: 100%;}
+    #nav li.full-megamenu:hover > ul {width: auto;}
+    .arrowclick {display: block;}
+    #nav > li.menu-item-has-children:before {display: none;}
+    .sub-menu {position: inherit;padding: 0;top: 0;left: 0;width: 100%;background-color: #0b1732;-webkit-transition: inherit;-o-transition: inherit;transition: inherit;}
+    .sub-menu>li>a {padding: 10px 15px; }
+    .headsocial {display: none;}
+    .headbook-btn {padding-left: 0;margin-right: 15px;}
+    /* Start: Multi Location */
+    .findloc-text {font-size: 18px;margin-right: 12px;}
+    .findlocsearch-bar input {width: 320px;height: 42px;padding: 4px 32px 4px 10px;}
+    .findlocsearch-box .border-btn {padding: 0 15px;height: 42px;line-height: 42px;margin-left: 12px;}
+    .findlocsearch-bar i {font-size: 16px;right: 8px;}
+    .headfindloc .location_list, .headfindloc:hover .location_list {display: none;}
+    .multilocation.home #container {padding-top: 0;}
+    /* End: Multi Location */
+    /* End: Header */
+    /* Start: Home Banner Section */
+    .hmbanner-section {padding-top: 30px;margin-bottom: 40px;}
+    .hmbanner-imgcol {order: 1;}
+    .hmbanner-img {max-width: 400px;margin: 0 auto;}
+    .hmbanner-textcol {order: 2;}
+    .hmbanner-text {max-width: 100%;text-align: center;margin-bottom: 1px;}
+    .hmbanner-slider.owl-carousel .owl-nav {bottom: -40px;left: 0;right: 0;text-align: center;}
+    /* End: Home Banner Section */
+    /* Start: Home About Us Section */
+    .hmabout-imgcol {margin-bottom: 30px;}
+    .hmabout-image {max-width: 400px;margin: 0 auto;}
+    .hmaboutus-text {text-align: center;padding-bottom: 20px;}
+    .hmaboutus-text .maintitle {margin-bottom: 16px;}
+    /* End: Home About Us Section */
+    /* Start: Home Advantage Section */
+    .row.hmadvantage-list {margin-top: 0;}
+    .row.hmadvantage-list .item:nth-child(odd) {margin-top: 0;}
+    .hmadvantagebox {height: 100%;}
+    .hmadvantage-imgcol {margin-top: 30px;}
+    .hmadvantage-img {max-width: 400px;margin: 0 auto;}
+    .hmadvantage-img img {display: block;}
+    /* End: Home Advantage Section */
+    /* Start: Home Ambulance Stripe Section */
+    .hmfindambulance-section {padding-bottom: 40px;}
+    .hmfindambulance-imgcol {margin-bottom: 60px;}
+    .hmfindambulance-img {max-width: 450px;margin: 0 auto;}
+    .hmfindambulance-text {text-align: center;}
+    /* End: Home Ambulance Stripe Section */
+    /* Start: Home Doctors Section */
+    .hmdoctor-section .maintitle {position: relative;top: auto;left: auto;z-index: 0;}
+    .hmdoctor-textcol {padding-top: 0;-webkit-box-ordinal-group: 3;-ms-flex-order: 2;order: 2;}
+    .hmdoctor-desc {text-align: center;}
+    .hmdrsocial .socialmedia {-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;}
+    .hmdoctor-thumbcol {margin-bottom: 30px;-webkit-box-ordinal-group: 2;-ms-flex-order: 1;order: 1;}
+    .hmdoctor-thumb {max-width: 450px;margin: 0 auto;}
+    .hmdoctorlist.owl-carousel .owl-nav {position: relative;right: auto;bottom: auto;text-align: center;margin-top: 20px;}
+    /* End: Home Doctors Section */
+    /* Start: Home Call Us Section */
+    .row.hmcallusbox-list {margin-top: 0;}
+    .row.hmcallusbox-list .item:nth-child(odd) {margin-top: 0;}
+    .hmcallus-rightcol {margin-bottom: 30px;order: 1;}
+    .hmcallus-leftcol {order: 2;}
+    .hmcallus-desc {text-align: center;}
+    /* End: Home Call Us Section */
+    /* Start: Home Review Section */
+    .hmreview-imgcol {display: none;}
+    /* End: Home Review Section */
+    /* Start: Doctor Detail Page */
+    .doctordetail-thumb {float: none;max-width: 400px;margin: 0 auto 30px auto;width: 100%;}
+    .doctordetail-info {text-align: center;margin-bottom: 20px;}
+    /* End: Doctor Detail Page */
+    /* Start: Contact Us Page */
+    .contactus-form .aawformblock .aawfieldcol.aawfieldtextarea {width: 100%;}
+    /* End: Contact Us Page */
+    /* Start: Before and After Page */
+    .bfraftr-box {max-width: 630px;margin: 0 auto;}
+    /* End: Before and After Page */
+    /* Start: Testimonials Page */
+    .reviewbox-desc {padding-left: 15px;}
+    .reviewbox-desc p {font-size: 16px;line-height: 20px;}
+    .review-rating i {font-size: 18px;}
+    /* End: Testimonials Page */
+    /* Start: First Visit Page */
+    .firstvisit-thumb {float: none;width: 100%;max-width: 400px;margin: 0 auto 30px auto;}
+    /* End: First Visit Page */
+    /* Start: How It Works Page */
+    .howitwork-thumbcol {width: 30%;}
+    .howitwork-textcol {width: 70%;}
+    /* End: How It Works Page */
+    /* Start: Location Detail Page */
+    .locgallery-col {margin-top: 30px;}
+    /* End: Location Detail Page */
+    /* Start: Footer */
+    .footform-col + .foothour-col {margin-top: 30px;}
+    .footservice-col {margin-top: 30px;}
+    .footservice.footmenu li {width: 33.33%;}
+    .fullfoot-formcol .footform .aawfieldgroup .aawfieldcol33 {width: 50%;}
+    /* Start: Multi Locations */
+    .footmultiloc-search .findlocsearch-bar input {width: 450px;height: 50px;padding: 4px 40px 4px 12px;}
+    .footmultiloc-search .button {padding: 0 20px;height: 50px;line-height: 50px;margin-left: 16px;}
+    .footmultiloc-search .findlocsearch-bar i {font-size: 18px;right: 10px;}
+    .multifootinner-row .footlink-col {order: 1;}
+    .multifootinner-row .footpromo-col {order: 2;}
+    .multifootinner-row .footservice-col {order: 3;}
+    /* End: Multi Locations */
+    /* End: Footer */
+}
+
+@media only screen and (max-width: 767.98px) {
+    /* Start: Common Css */
+    body {font-size: 16px;line-height: 21px;}
+    .button, .border-btn, .gradient-btn {font-size: 16px;padding: 14px 16px;}
+    .maintitle {margin-bottom: 20px;}
+    .maintitle h1, .maintitle h2 {font-size: 28px;letter-spacing: inherit;}
+    .maintitle p {font-size: 16px;line-height: 22px;}
+    .inner-title {margin-bottom: 20px;}
+    .inner-title h1, .inner-title h2 {font-size: 28px;letter-spacing: inherit;}
+    .inner-title p {font-size: 16px;line-height: 22px;}
+    .innertop-desc h2 {font-size: 22px;margin-bottom: 10px;}
+    .innertop-desc h3 {font-size: 20px;margin-bottom: 10px;}
+    .aawformblock .aawfieldgroup {margin: 0 -6px;}
+    .aawfieldgroup .aawfieldcol {padding: 0 6px;margin-bottom: 12px;}
+    .aawformblock .aawfieldcol input, .aawformblock .aawfieldcol input:focus, .aawformblock .aawfieldcol textarea, .aawformblock .aawfieldcol textarea:focus, .aawformblock .aawfieldcol select {padding-left: 12px;padding-right: 12px;}
+    .aawformblock .aawfieldcol .pdateinput input {padding-right: 32px;}
+    .ui-datepicker-trigger {right: 9px;}
+    .heapBox .holder {padding: 5px 32px 5px 12px;}
+    .heapBox .handler:before {right: 9px;}
+    .aawform-group.aawform-btn .button {font-size: 16px;padding: 14px 40px;}
+    /* End: Common Css */
+    /* Start: Header */
+    .headermain {-webkit-box-orient: vertical;-webkit-box-direction: normal;-ms-flex-direction: column;flex-direction: column;}
+    .headtop-right {padding-left: 0;width: 100%;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;margin-top: 12px;}
+    /* Start: Multi Locations */
+		.headfindloc-block {-webkit-box-direction: normal;-ms-flex-direction: column;flex-direction: column;}
+		.findloc-text {margin-right: 0;margin-bottom: 10px;text-align: center;}
+		.multilocation .headermain {-webkit-box-orient: horizontal;-webkit-box-direction: normal;-ms-flex-direction: row;flex-direction: row;}
+		.multilocation .headtop-right {-webkit-box-orient: horizontal;-webkit-box-direction: normal;-ms-flex-direction: row;flex-direction: row;-webkit-box-pack: end;-ms-flex-pack: end;justify-content: flex-end;margin-top: 0;padding-left: 6px;width: calc(100% - 200px);}
+		.headfindloc .button {padding-left: 16px;padding-right: 16px;}
+		/* End: Multi Locations */
+    /* End: Header */
+    /* Start: Home Banner Section */
+    .hmbanner-text h2 {font-size: 28px;margin-bottom: 10px;}
+    .hmbanner-text h2 span {font-size: 48px;}
+    .hmbanner-text .border-btn {margin-top: 15px;}
+    /* End: Home Banner Section */
+    /* Start: Home Form Section */
+    .hmformsection {padding: 30px 0;}
+    /* End: Home Form Section */
+    /* Start: Home About Us Section */
+    .hmaboutsection{padding: 30px 0;}
+    .hmabout-btn .border-btn + .border-btn {margin-left: 5px;}
+    /* End: Home About Us Section */
+    /* Start: Home Advantage Section */
+    .hmadvantage-section {padding: 30px 0;}
+    /* End: Home Advantage Section */
+    /* Start: Home Service Stripe Section */
+    .hmservicestripe-section {padding: 30px 0;}
+    .hmservicestripe-btn .border-btn + .border-btn {margin-left: 5px;}
+    /* End: Home Service Stripe Section */
+    /* Start: Home Service Section */
+    .hmservice-section {padding: 30px 0;}
+    .hmservicebox {padding: 20px 15px;}
+    .hmservicebox-desc {margin-top: 20px;}
+    .hmservicebox-desc h3 {font-size: 20px;margin-bottom: 12px;}
+    .hmservicebox-desc p {margin-bottom: 12px;}
+    /* End: Home Service Section */
+    /* Start: Home Certificates Section */
+    .hmcertificate-section {padding: 30px 0;}
+    /* End: Home Certificates Section */
+    /* Start: Home Ambulance Stripe Section */
+    .hmfindambulance-section {padding-bottom: 30px;}
+    /* End: Home Ambulance Stripe Section */
+    /* Start: Home Doctors Section */
+    .hmdoctor-section {padding: 30px 0;}
+    .hmdoctor-desc h3 {font-size: 22px;}
+    .hmdoctor-btn .gradient-btn + .border-btn {margin-left: 15px;}
+    /* End: Home Doctors Section */
+    /* Start: Home Discount Plan Section */
+    .hmdiscplan-section {padding: 30px 0;}
+    .discplan-box {padding: 20px 10px;}
+    .discplan-head h3 {font-size: 18px;}
+    .discplan-btn .button {max-width: 145px;}
+    /* End: Home Discount Plan Section */
+    /* Start: Home Promotion Plan Section */
+    .hmpromoplan-section {padding: 30px 0;}
+    .hmpromosbox {max-width: 210px;}
+    .hmpromo-info {padding: 20px 30px;}
+    .hmpromosbox h3 {font-size: 18px;margin-bottom: 8px;}
+    .promoprice {font-size: 35px;margin-bottom: 4px;}
+    .hmpromo-info p {font-size: 14px;}
+    /* End: Home Promotion Plan Section */
+    /* Start: Home Call Us Section */
+    .hmcallus-section {padding: 30px 0;}
+    .hmcallus-desc .maintitle {margin-bottom: 15px;}
+    /* End: Home Call Us Section */
+    /* Start: Home Blog Section */
+    .hmblog-section {padding: 30px 0;}
+    .hmblogbox {padding: 20px 15px;}
+    .hmblogbox-desc {margin-top: 20px;}
+    .hmblogbox-desc h3 {margin-bottom: 4px;}
+    .hmblogbox-btn {margin-top: 16px;}
+    /* End: Home Blog Section */
+    /* Start: Home Review Section */
+    .hmreview-leftcol {padding-top: 30px;padding-bottom: 30px;}
+    /* End: Home Review Section */
+    /* Start: Home Gallery Section */
+    .hmgallery-section {padding: 30px 0;}
+    /* End: Home Gallery Section */
+    /* Start: About Us Page */
+    .aboutmain-content {padding: 30px 0;}
+    .aboutmain-desc h2 {font-size: 22px;margin-bottom: 10px;}
+    .aboutmain-desc h3 {font-size: 20px;margin-bottom: 10px;}
+    .aboutmain-desc li {margin-bottom: 5px;}
+    /* End: About Us Page */
+    /* Start: Doctor Listing Page */
+    .doctorlist-section {padding: 30px 0;}
+    .drlistbox-desc {margin-top: 15px;}
+    .drlistbox-desc h3 {font-size: 20px;}
+    .drlistbox-desc p {margin-top: 12px;}
+    .drlistbox-btn {margin-top: 15px;}
+    /* End: Doctor Listing Page */
+    /* Start: Doctor Detail Page */
+    .doctordetail-main {padding: 30px 0;}
+    .doctordetail-fulldesc h2 {font-size: 22px;margin-bottom: 10px;}
+    .doctordetail-fulldesc h3 {font-size: 20px;margin-bottom: 10px;}
+    .doctordetail-fulldesc li {margin-bottom: 5px;}
+    .otherdoctor-section {padding: 30px 0;}
+    /* End: Doctor Detail Page */
+    /* Start: Service Detail Page */
+    .servicemain-content {padding: 30px 0;}
+    .servicemain-desc h2 {font-size: 22px;margin-bottom: 10px;}
+    .servicemain-desc h3 {font-size: 20px;margin-bottom: 10px;}
+    .servicemain-desc li {margin-bottom: 5px;}
+    .othrservice-section {padding: 30px 0;}
+    /* End: Service Detail Page */
+    /* Start: Book Appointment Page */
+    .bookappform-section {padding: 30px 0;}
+    /* End: Book Appointment Page */
+    /* Start: Blog Listing Page */
+    .bloglist-section {padding: 30px 0;}
+    .bloglist-pagination {padding-top: 20px;margin-top: 20px;}
+    /* End: Blog Listing Page */
+    /* Start: Blog Detail Page */
+    .blogmain-content {padding: 30px 0;}
+    .blogmain-desc h2 {font-size: 22px;margin-bottom: 10px;}
+    .blogmain-desc h3 {font-size: 20px;margin-bottom: 10px;}
+    .blogmain-desc li {margin-bottom: 5px;}
+    .blogdtl-pagination {padding-top: 20px;margin-top: 20px;}
+    /* End: Blog Detail Page */
+    /* Start: Gallery Page */
+    .gallerylist-section {padding: 30px 0;}
+    /* End: Gallery Page */
+    /* Start: Before and After Page */
+    .bfraftrmain-section {padding: 30px 0;}
+    .bfraftr-caption span {font-size: 20px;}
+    /* End: Before and After Page */
+    /* Start: Testimonials Page */
+    .reviewmain-section {padding: 30px 0;}
+    .reviewbox-thumbcol {width: 100%;margin-bottom: 20px;}
+    .reviewlist-opt2 .reviewbox-thumbcol {margin-bottom: 20px;}
+    .reviewbox-thumb {max-width: 240px;margin: 0 auto;}
+    .reviewbox-desc {width: 100%;padding-left: 0;text-align: center;}
+    .reviewbox-desc h3 {font-size: 20px;margin-bottom: 10px;}
+    /* End: Testimonials Page */
+    /* Start: Discount Plan Page */
+    .discplanlist-section {padding: 30px 0;}
+    /* End: Discount Plan Page */
+    /* Start: Promotion Plan Page */
+    .promoplanlist-section {padding: 30px 0;}
+    .promoslist-row .hmpromosbox {max-width: 260px;}
+    /* End: Promotion Plan Page */
+    /* Start: Finance Insurance Page */
+    .financemain-section, .finance-btmcontent {padding: 30px 0;}
+    .finance-desc h2 {font-size: 22px;margin-bottom: 10px;}
+    .finance-desc h3 {font-size: 20px;margin-bottom: 10px;}
+    .finance-desc li {margin-bottom: 5px;}
+    .financeplanlist-section {padding: 30px 0;}
+    .financeplanlist-section h3 {font-size: 22px;margin-bottom: 12px;}
+    .financeplanlist {-webkit-column-count: 2;-moz-column-count: 2;column-count: 2;}
+    .financeplanlist li {padding-top: 8px;}
+    .financeplanlist li span {padding-left: 15px;}
+    /* End: Finance Insurance Page */
+    /* Start: First Visit Page */
+    .firstvisit-section {padding: 30px 0;}
+    .firstvisit-section h2 {font-size: 22px;margin-bottom: 10px;}
+    .firstvisit-section h3 {font-size: 20px;margin-bottom: 10px;}
+    .firstvisit-desc li {margin-bottom: 5px;}
+    .firstvisit-btmcontent {padding-top: 30px;}
+    /* End: First Visit Page */
+    /* Start: FAQ's Page */
+    .faqs-section {padding: 30px 0;}
+    .accordionrow + .accordionrow {margin-top: 15px;}
+    .accord-detail{padding:15px 0 5px 0;}
+    .accordion .acclink {font-size: 18px;padding: 8px 35px 8px 8px;}
+    .accordion .acclink:after {font-size: 20px;right: 8px;}
+    /* End: FAQ's Page */
+    /* Start: Advanced Technology Page */
+    .advtechnology-section {padding: 30px 0;}
+    /* End: Advanced Technology Page */
+    /* Start: How It Works Page */
+    .howitwork-section {padding: 30px 0;}
+    .howitwork-block {text-align: center;}
+    .howitwork-thumbcol {width: 100%;margin-bottom: 16px;}
+    .howitwork-thumb {max-width: 250px;}
+    .howitwork-textcol {width: 100%;}
+    .howitwork-text h3 {font-size: 22px;margin-bottom: 10px;}
+    /* End: How It Works Page */
+    /* Start: Location Listing Page */
+    .findloclist-section {padding: 30px 0;}
+    .findlocation-map iframe {height: 320px;}
+    .findlocationbox {padding: 15px 10px;}
+    .findlocbox-info {margin-top: 20px;}
+    .findlocbox-info h3 {font-size: 20px;}
+    .findloc-adress {margin-bottom: 12px;}
+    .findloc-btn {margin-top: 20px;}
+    /* End: Location Listing Page */
+    /* Start: Location Detail Page */
+    .locdetailinfo-section {padding: 30px 0;}
+    .locationbnnr-map iframe {height: 320px;}
+    .locdetail-hours .foothourslist li {font-size: 15px;}
+    /* End: Location Detail Page */
+    /* Start: Footer */
+    .footform-section {padding: 30px 0;}
+    .foothour-block {max-width: 300px;}
+    .foothourslist li {margin-bottom: 10px;}
+    .footmap-block iframe {height: 300px;}
+    .footer-inner {padding: 30px 0;}
+    .footcol-title {margin-bottom: 15px;}
+    .footinfo-text a, .footinfo-text span {padding-left: 35px;}
+    .footinfo-text i {font-size: 26px;}
+    .footinfo-text + .footinfo-text {margin-top: 24px;}
+    .foot-social {margin-top: 24px;}
+    .footcopy {padding: 15px 0;}
+    /* Start: Multi Locations */
+    .footmultiloc-section {padding: 30px 0;}
+    .footmultiloc-search .findlocsearch-bar input {width: 360px;}
+    .footmultiloc-search .button {padding: 0 15px;}
+    .footfind-locbar {margin-bottom: 30px;}
+    .footmultiloc-box h3 {font-size: 22px;margin-bottom: 10px;}
+    .footmultiloc-phone {margin-top: 10px;}
+    .foothours.footmultiloc-hours {margin-top: 15px;}
+    .footmultiloc-hours .foothourslist li {font-size: 15px;}
+    /* End: Multi Locations */
+    /***** Start: Mobile Fixed Bottom Button *****/
+    .mobilefixed-btmbtn {padding-top: 41px;}
+    .mobilefootcall { z-index: 99; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center;position: fixed; width: 100%; bottom: 0; border-top: 1px solid #ffffff;}
+    .mobilefootcall a {font-weight: normal;z-index: 9;width: 50%; text-align: center; padding: 10px 0;background-color: #f57c78;background: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #f57c78), color-stop(66%, #d5566b));background: -o-linear-gradient(top, #f57c78 10%, #d5566b 66%);background: linear-gradient(180deg, #f57c78 10%, #d5566b 66%);color: #ffffff;border-left: 1px solid #ffffff;}
+    .mobilefootcall a:first-child {border: 0;}
+    .mobilefootcall a:hover {    background-color: #d5566b;background: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #d5566b), color-stop(66%, #f57c78));background: -o-linear-gradient(top, #d5566b 10%, #f57c78 66%);background: linear-gradient(180deg, #d5566b 10%, #f57c78 66%);color:#ffffff;}
+    /***** End: Mobile Fixed Bottom Button *****/
+    /* End: Footer */
+}
+
+@media only screen and (min-width: 576px) {
+    /* Start: Footer */
+    .footmenu {display: block !important;height: auto !important;}
+    /* End: Footer */
+}
+
+@media only screen and (max-width: 575.98px) {
+    /* Start: Common Css */
+    .aawfieldgroup .aawfieldcol33 {width: 100%;}
+    /* End: Common Css */
+    /* Start: Home Advantage Section */
+    .hmadvantagebox {max-width: 320px;margin: 0 auto;}
+    .hmadvantage-img {max-width: 320px;}
+    /* End: Home Advantage Section */
+    /* Start: Home Service Section */
+    .hmservicebox {padding: 20px 10px;max-width: 320px;margin: 0 auto;}
+    .hmservice-thumb {max-width: 240px;margin-left: auto;margin-right: auto;}
+    /* End: Home Service Section */
+    /* Start: Home Discount Plan Section */
+    .discplan-box {max-width: 320px;margin: 0 auto;}
+    /* End: Home Discount Plan Section */
+    /* Start: Home Promotion Plan Section */
+    .hmpromosbox {max-width: 240px;}
+    /* End: Home Promotion Plan Section */
+    /* Start: Home Call Us Section */
+    .hmcallusbox {max-width: 320px;margin: 0 auto;}
+    /* End: Home Call Us Section */
+    /* Start: Home Blog Section */
+    .hmblogbox {padding: 20px 10px;max-width: 320px;margin: 0 auto;}
+    .hmblogthumb {max-width: 240px;margin-left: auto;margin-right: auto;}
+    /* End: Home Blog Section */
+    /* Start: Doctor Listing Page */
+    .drlist-box {padding: 20px 10px;max-width: 320px;margin: 0 auto;}
+    /* End: Doctor Listing Page */
+    /* Start: Gallery Page */
+    .gallerylist-box {max-width: 360px;margin: 0 auto;}
+    /* End: Gallery Page */
+    /* Start: Location Listing Page */
+    .findlocationbox {max-width: 320px;margin: 0 auto;}
+    /* End: Location Listing Page */
+    /* Start: Location Detail Page */
+    .locdetailinfo-section .inner-title {text-align: center;}
+    .locontact-info {text-align: center;}
+    .locontactinfo-col + .lochours-col {margin-top: 30px;} 
+    .locdetail-hours .foothourslist li {font-size: 16px;}
+    .foothours.locdetail-hours {max-width: 280px;margin: 0 auto;}
+    .locgallery-thumb {max-width: 320px;}
+    /* End: Location Detail Page */
+    /* Start: Footer */
+    .footform .aawfieldgroup .aawfieldcol33 {width: 100%;}
+    .fullfoot-formcol .footform .aawfieldgroup .aawfieldcol33 {width: 100%;}
+    .footloc-col {text-align: center;}
+    .footinfo-text a, .footinfo-text span {display: inline;}
+    .footinfo-text.foot-adderss i {top: 1px;transform: inherit;}
+    .foot-social .socialmedia {-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;}
+    .footlink-col {margin-top: 30px;}
+    .footcol-title {font-size: 20px;text-align: center;}
+    .footmenu-col + .footmenu-col {margin-top: 20px;}
+    .footmenu-toggle {max-width: 290px;margin: 0 auto;position: relative;}
+    .footmenu-toggle:after {content: "\f078";font-family: "Font Awesome 6 Free";font-weight: 900;font-size: 14px;margin-left: 5px;display: inline-block;-webkit-transition: all 0.3s ease-in-out;transition: all 0.3s ease-in-out;}
+    .footmenu-toggle.active:after {-webkit-transform: rotate(180deg);-ms-transform: rotate(180deg);transform: rotate(180deg);}
+    .footmenu-col .footmenu {margin-top: 15px;}
+    .footmenu li, .footservice.footmenu li {width: 100%;text-align: center;}
+    /* Start: Multi Locations */
+    .footmultiloc-search {-ms-flex-wrap: wrap;flex-wrap: wrap;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;}
+    .footmultiloc-search .findlocsearch-bar, .footmultiloc-search .findlocsearch-bar input {width: 100%;}
+    .footmultiloc-search .button {margin-top: 15px;}
+    .footmultiloc-box {text-align: center;}
+    .footmultiloc-hours .foothourslist {max-width: 260px;margin: 0 auto;}
+    .footmultiloc-hours .foothourslist li {font-size: 16px;}
+    .multifootinner-row .footlink-col {order: 2;}
+    .multifootinner-row .footpromo-col {order: 1;}
+    .multifootinner-row .footservice-col {order: 3;}
+    /* End: Multi Locations */
+    /* End: Footer */
+}
+
+@media only screen and (max-width: 479.98px) {
+    /* Start: Common Css */
+    .maintitle h1, .maintitle h2 {font-size: 24px;}
+    .innerbanner-img {height: 240px;}
+    .inner-title h1, .inner-title h2 {font-size: 24px;}
+    /* End: Common Css */
+    /* Start: Header */
+    .headtop-right {-webkit-box-orient: vertical;-webkit-box-direction: normal;-ms-flex-direction: column;flex-direction: column;}
+    .head-phone {padding-left: 0;margin-top: 12px;}
+    .head-location {max-width: 100%;text-align: center;}
+    .head-location a {display: inline;}
+    /* Start: Multi Locations */
+		.findlocsearch-box {-webkit-box-direction: normal;-ms-flex-direction: column;flex-direction: column;width: 100%;}
+		.findlocsearch-bar {width: 100%;}
+		.findlocsearch-bar input {width: 100%;}
+		.findlocsearch-box .border-btn {margin-left: 0;margin-top: 12px}
+		.multilocation #logo {width: 180px;}
+		.multilocation .headtop-right {width: calc(100% - 180px);}
+		/* End: Multi Locations */
+    /* End: Header */
+    /* Start: Home Banner Section */
+    .hmbanner-text h2 {font-size: 24px;}
+    .hmbanner-text h2 span {font-size: 40px;}
+    /* End: Home Banner Section */
+    /* Start: Home About Us Section */
+    .hmabout-btn .border-btn {max-width: inherit;width: auto;padding: 13px 16px 12px 16px;}
+    /* End: Home About Us Section */
+    /* Start: Home Service Stripe Section */
+    .hmservicestripe-btn .border-btn {max-width: inherit;width: auto;padding: 13px 16px 12px 16px;}
+    /* ENd: Home Service Stripe Section */
+    /* Start: Home Ambulance Stripe Section */
+    .hmfindambulance-imgcol {margin-bottom: 40px;}
+    .hmfindambulance-img {padding-left: 50px;max-width: 320px;}
+    .hmfindambulance-img:before, .hmfindambulance-img:after {top: -14%;width: 180px;height: 180px;}
+    .hmfindambulance-text .maintitle {margin-bottom: 12px;}
+    .hmfindambulance-call a {font-size: 20px;}
+    .hmfindambulance-btn {margin-top: 20px;}
+    /* End: Home Ambulance Stripe Section */
+    /* Start: Home Doctors Section */
+    .hmdoctor-btn .gradient-btn, .hmdoctor-btn .border-btn {min-width: inherit;}
+    .hmdoctor-btn .gradient-btn + .border-btn {margin-left: 12px;}
+    /* End: Home Doctors Section */
+    /* Start: Home Gallery Section */
+    .hmgalleryslider-nav {margin-top: 10px;}
+    .hmgalleryslider-nav .slick-list {margin: 0 -5px;}
+    .hmgallery-thumb {margin: 0 5px;}
+    /* End: Home Gallery Section */
+    /* Start: Blog Listing Page */
+    .blog-pagination .page-numbers.prev {float: none;display: block;margin: 0 auto 8px auto;}
+    .blog-pagination .page-numbers.next {float: none;display: block;margin: 12px auto 0 auto;}
+    /* End: Blog Listing Page */
+    /* Start: Blog Detail Page */
+    .blogdtl-pagnav {flex-direction: column;}
+    .blog-backbtn {margin: 15px 0;}
+    /* End: Blog Detail Page */
+    /* Start: Before and After Page */
+    .bfraftr-caption span {font-size: 18px;}
+    /* End: Before and After Page */
+    /* Start: Finance Insurance Page */
+    .financeplanlist {-webkit-column-count: 1;-moz-column-count: 1;column-count: 1;}
+    /* End: Finance Insurance Page */
+}
+
+@media only screen and (max-width: 359.98px){
+   /* Start: Header */
+  /* Start: Multi Locations */
+  .multilocation .headermain {-webkit-box-orient: vertical;-webkit-box-direction: normal;-ms-flex-direction: column;flex-direction: column;}
+  .multilocation #logo {width: auto;}
+  .multilocation .headtop-right {padding-left: 0;width: 100%;-webkit-box-pack: center;-ms-flex-pack: center;justify-content: center;margin-top: 12px;}
+	/* End: Multi Locations */
+    /* End: Header */
+}

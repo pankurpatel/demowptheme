@@ -1,0 +1,103 @@
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+
+# Compression
+<IfModule mod_deflate.c>
+# Compress HTML, CSS, JavaScript, Text, XML and fonts
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+AddOutputFilterByType DEFLATE application/x-font
+AddOutputFilterByType DEFLATE application/x-font-opentype
+AddOutputFilterByType DEFLATE application/x-font-otf
+AddOutputFilterByType DEFLATE application/x-font-truetype
+AddOutputFilterByType DEFLATE application/x-font-ttf
+AddOutputFilterByType DEFLATE application/x-javascript
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE font/opentype
+AddOutputFilterByType DEFLATE font/otf
+AddOutputFilterByType DEFLATE font/ttf
+AddOutputFilterByType DEFLATE image/svg+xml
+AddOutputFilterByType DEFLATE image/x-icon
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/javascript
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/xml
+
+# Remove browser bugs (only needed for really old browsers)
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch ^Mozilla/4\.0[678] no-gzip
+BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+Header append Vary User-Agent
+</IfModule>
+<ifModule mod_headers.c>
+Header set Connection keep-alive
+</ifModule>
+# Block Russian Referrer Spam
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} ^http://.*event\-tracking\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*site10\free\-floating\-buttons\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*free\-social\-buttons\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*buttons\-for\-website\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*get\-free\-social\-traffic\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*success\-seo\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*floating\-share\-buttons\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*yourserverisdown\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*net\-profits\.xyz/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*free\-traffic\.xyz/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*traffic2cash\.xyz/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*traffic\-cash\.xyz/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*social\-widget\.xyz/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*slow\-website\.xyz/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*fix\-website\-errors\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*free\-video\-tool\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*deadlinkchecker\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*forum\.topic50933586\.ilovevitaly\.xyz/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*web\-revenue\.xyz/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*dc1wf1\.cedagroup\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*int\.search\.tb\.ask\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*go\.ekatalog\.xyz/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*getlamborghini\.ga/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*share\-buttons\.xyz/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*burn\-fat\.ga/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*magicdiet\.gq/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*dominateforex\.ml/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*easycommerce\.cf/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*larger\.io/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*ownshop\.cf/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*topquality\.cf/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*free\-video\-tool\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*keywords\-monitoring\-success\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*keywords\-monitoring\-your\-success\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*fix\-website\-errors\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*cookie\-law\-enforcement\-aa\.xyz/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*law\-enforcement\-dd\.xyz/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*snip\.tw/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*top1\-seo\-service\.com/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*thenextweb\.com [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*brateg\.xyz [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*boltalko\.xyz [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*budilneg\.xyz [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*arendovalka\.xyz [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*bezlimitko\.xyz [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*biteg\.xyz [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*begalka\.xyz [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*abcdefh\.xyz [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*alfabot\.xyz [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*advokateg\.xyz [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*erot\.co/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*китай\.с\.новым\.годом\.рф/ [NC,OR]
+RewriteCond %{HTTP_REFERER} ^http://.*how\.to\.travel\.and\.make\.money\.with\.maps\.ilikevitaly\.com/ [NC]
+RewriteRule ^(.*)$ [F,L]
